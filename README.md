@@ -1,8 +1,8 @@
-#Hangman Game
+# Hangman Game
 
 This is a classic Hangman game implemented in Python. In this game, players guess letters to uncover a hidden word. The game provides a visual representation of the hangman's gallows using ASCII art.
 
-How to Play
+## How to Play
 
 When you run the program, you will see the Hangman game's logo printed in ASCII art.
 A random word will be chosen from the provided word list.
