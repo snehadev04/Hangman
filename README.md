@@ -10,14 +10,15 @@ The chosen word will be displayed as a series of underscores representing each l
 You have 6 lives to guess the word correctly.
 Guess letters one by one. If the guessed letter is correct, it will be revealed in the word. If not, you lose a life.
 The game ends when you guess all the letters in the word correctly or run out of lives.
-Instructions
 
+## Instructions
 Clone the repository to your local machine.
 Make sure you have Python installed on your system.
 Run the hangman.py file.
 Follow the on-screen instructions to play the game.
 Enjoy the game!
-Additional Information
+
+## Additional Information
 
 The hangman_art.py file contains ASCII art representations of hangman stages and the game's logo.
 The hangman_words.py file contains a list of words for the game.
